@@ -1,5 +1,8 @@
 *
+!.gitignore
+
 !dist/
 !dist/**
-
-!.gitignore
+!public/
+!public/locales/
+!public/locales/**

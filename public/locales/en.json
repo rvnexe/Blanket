@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "c": ",",
+    "welcome": "Welcome",
+    "login": "Login",
+    "logintitle": "Let’s get you in",
+    "user": "user",
+    "username": "Username",
+    "pass": "Password",
+    "members": "Members",
+    "owner": "Owner",
+    "ownershiptransfer": "Transfer Ownership",
+    "logout": "Logout",
+    "leaveblanket": "Leave Blanket",
+    "noonehere": "No one is here"
+}

@@ -1,0 +1,16 @@
+{
+    "dir": "rtl",
+    "c": "،",
+    "welcome": "خوش آمدید",
+    "login": "لاگین",
+    "logintitle": "ورود به اکانت",
+    "user": "یوزر",
+    "username": "یوزرنیم",
+    "pass": "پسورد",
+    "members": "اعضا",
+    "owner": "مالک",
+    "ownershiptransfer": "انتقال مالکیت",
+    "logout": "لاگ اوت",
+    "leaveblanket": "ترک بلنکت",
+    "noonehere": "هیچکس اینجا نیست"
+}
