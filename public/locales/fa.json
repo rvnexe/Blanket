@@ -1,6 +1,7 @@
 {
     "dir": "rtl",
     "c": "،",
+    "home": "خانه",
     "welcome": "خوش آمدید",
     "login": "لاگین",
     "logintitle": "ورود به اکانت",
@@ -11,6 +12,7 @@
     "owner": "مالک",
     "ownershiptransfer": "انتقال مالکیت",
     "logout": "لاگ اوت",
+    "joinblanket": "پیوستن به بلنکت",
     "leaveblanket": "ترک بلنکت",
     "noonehere": "هیچکس اینجا نیست"
 }

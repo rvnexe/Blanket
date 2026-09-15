@@ -1,6 +1,7 @@
 {
     "dir": "ltr",
     "c": ",",
+    "home": "Home",
     "welcome": "Welcome",
     "login": "Login",
     "logintitle": "Let’s get you in",
@@ -11,6 +12,7 @@
     "owner": "Owner",
     "ownershiptransfer": "Transfer Ownership",
     "logout": "Logout",
+    "joinblanket": "Join Blanket",
     "leaveblanket": "Leave Blanket",
     "noonehere": "No one is here"
 }
